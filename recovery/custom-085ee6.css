@@ -1,0 +1,275 @@
+/*table header*/
+.text-center {
+  text-align: center;
+}
+
+/*Header Logo*/
+#logo img {
+  width:64px;
+  height: 64px;
+}
+
+.custom-logo {
+  vertical-align: middle !important;
+}
+
+.logoarea-right {
+  text-align: center;
+  display: inline-block;
+}
+
+/*mobile ad*/
+.site-main .mobile-ad-top {
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+
+/*youtube iframe centering*/
+.youtube {
+  margin:10px 0;
+}
+.youtube iframe {
+  margin:0 auto;
+  display:block;
+}
+
+/*google ad text widget*/
+.textwidget .adsbygoogle {
+  display:block !important;
+  margin:0 auto;
+}
+
+/*twitter gadget*/
+.textwidget .tw-widget-wrapper {
+  text-align:center;
+}
+.textwidget .tw-widget-wrapper > iframe.twitter-timeline {
+  margin:auto;
+}
+
+/*centering*/
+div.centering {
+  margin:0 auto;
+}
+
+/*Amazon widget affiliate*/
+.ad-widget {
+  margin:3px;
+}
+.ad-widget iframe {
+  margin:0 auto;
+  display:block;
+}
+
+/*Amazon affiliate*/
+.ad-box {
+  width:100%;
+  display: flex;
+  -webkit-justify-content: space-between; /* Safari */
+  justify-content: space-between;
+}
+.amazon-ad {
+  margin-left:10px;
+}
+.ad-box p {
+  margin-bottom:0.5em !important;
+}
+
+/*list style*/
+.marker-none {
+  list-style-type: none;
+}
+.marker-none li {
+  padding:10px;
+}
+
+/*Entry title*/
+.entry-content h3 {
+  border-left:solid 5px #73da2c;
+  border-bottom: solid 2px #73da2c;
+  padding-left: 10px;
+}
+
+.entry-content h4::before,
+.entry-content h5::before,
+h4.ad-titles::before,
+h5.ad-titles::before {
+  content: '● ';
+}
+
+.entry-content .additional-date::after {
+  content: ' : update ◎ ';
+}
+
+/*Awaken bonus*/
+.awaken-bonus::before {
+  content:" : ";
+}
+
+/*home entry header*/
+.entry-header > h2 > a {
+  font-size: 1.1em;
+  margin-top:10px;
+}
+
+h1.entry-title {
+  font-size:1.75em;
+}
+
+/*Table content adjust*/
+.t-header,
+.graycell {
+  background-color: #efefef;
+}
+
+.tdnumber {
+  width:2.5em;
+  text-align: center !important;
+}
+
+.td-narrow {
+  width:10%;
+  text-align: center !important;
+}
+
+.tdnumber2,
+.skillname {
+  width:20%;
+}
+
+.tdmain{
+  width:70%;
+  text-align: center !important;
+}
+
+.tdmiddle {
+  width:30%;
+  text-align: center !important;
+}
+
+.skilltable {
+  text-align: center !important;
+  /*font-size:0.75em;*/
+}
+
+.table-small-font {
+  font-size:0.5em;
+  text-align: center;
+}
+
+.cell-text-left {
+  text-align: left;
+}
+
+.skill-name::before {
+  content: 'スキル名 : ';
+}
+
+/*For weakend and strengthend effect table*/
+.skill-icon,
+.td-seminarrow {
+  width:15%;
+}
+
+.skill-table-row {
+  background-color:#271810;
+  color:white;
+}
+
+.skill-discription {
+  text-align: left !important;
+}
+
+/*sidebar widget*/
+.widget-header {
+  border-left:6px solid #73da2c;
+  border-bottom:2px solid #73da2c;
+}
+aside.widget ul {
+  list-style-type: armenian;
+}
+
+/*article eye catch*/
+.site-main > article > .attachment-post-thumbnail {
+  display: block;
+  margin-right:auto;
+  margin-left: auto;
+}
+
+/*archive title*/
+h1.archive-title {
+  font-size:1.75em;
+}
+
+/*Comment form*/
+.subscribe-label,
+.subscribe-label {
+  font: rgb(60, 60, 60) !important;
+}
+
+/*Twitter Widget*/
+div.tw-widget-wrapper{
+  display: block;
+  margin: auto;
+}
+
+#twitter-widget-0
+{
+  display: block;
+  margin: auto;
+}
+
+/*related post*/
+.wp_rp_wrap,
+.wp_rp_wrap .wp_rp_content,
+.wp_rp_wrap ul
+ {
+  width:100%;
+}
+.wp_rp_wrap .wp_rp_content,
+.wp_rp_wrap ul {
+  margin: 0 auto !important;
+}
+ul.related_post wp_rp {
+  display: flex !important;
+  -webkit-justify-content: space-between; /* Safari */
+  justify-content: space-between;
+}
+
+/*search sidebar*/
+.sidebar-search {
+  margin-bottom: 1.5em;
+}
+
+/*Adsense Top*/
+.adsence-top,
+.adsence-bottom {
+  width:100%;
+  overflow: hidden;
+}
+
+.adsence-bottom {
+  display:flex;
+  -webkit-justify-content: space-between; /* Safari */
+  justify-content: space-between;
+}
+
+/*----------------------------- mobile setting -----------------------------*/
+@media screen and (max-width:481px){
+    body {
+      font-size:0.75rem;
+    }
+    h1.site-title,
+    p.site-title {
+      font-size:16px;
+    }
+    button.main-navigation-toggle {
+      display:inline-block;
+      width:30px;
+    }
+}
+
+/*利用規約*/
+.terms-of-service > p {
+  font-size: small;
+}

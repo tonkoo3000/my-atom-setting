@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-117219-4577-1nltqz9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-117219-4577-1nltqz9/package.tgz",
+        "spec": "/tmp/d-117219-4577-1nltqz9/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-117219-4577-c1yi3y"
+    ]
+  ],
+  "_from": "../d-117219-4577-1nltqz9/package.tgz",
+  "_id": "slim-language@2.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/slim-language",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-117219-4577-1nltqz9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-117219-4577-1nltqz9/package.tgz",
+    "spec": "/tmp/d-117219-4577-1nltqz9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117219-4577-1nltqz9/package.tgz",
+  "_shasum": "a7a5111ce0b374b2765d155d43b219c49cdfa008",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-117219-4577-1nltqz9/package.tgz",
+  "_where": "/tmp/apm-install-dir-117219-4577-c1yi3y",
+  "bugs": {
+    "url": "https://github.com/ianmitchell/slim-language/issues"
+  },
+  "dependencies": {},
+  "description": "Syntax highlighting for the Slim template language",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/ianmitchell/slim-language#readme",
+  "license": "MIT",
+  "name": "slim-language",
+  "optionalDependencies": {},
+  "readme": "# Atom Slim Support\n\nThis is an automatically generated language package, based off this excellent Sublime Text package: https://github.com/tycooon/slim-tmbundle\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianmitchell/slim-language.git"
+  },
+  "version": "2.2.0"
+}

@@ -1,0 +1,1 @@
+{".platform-darwin atom-workspace atom-text-editor:not([mini])":{"cmd-shift-enter":"maximize-panes:maximize"},".platform-win32 atom-workspace atom-text-editor:not([mini])":{"ctrl-shift-enter":"maximize-panes:maximize"},".platform-linux atom-workspace atom-text-editor:not([mini])":{"ctrl-shift-enter":"maximize-panes:maximize"}}
