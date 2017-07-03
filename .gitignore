@@ -1,0 +1,8 @@
+# refer site : https://mae.chab.in/archives/2605
+
+.apm/
+.node-gyp/
+packages/
+compile-cache/
+storage/
+

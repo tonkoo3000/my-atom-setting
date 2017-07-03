@@ -1,5 +1,6 @@
 "*":
   core:
+<<<<<<< HEAD
     projectHome: "/home/toyoki/atom"
     telemetryConsent: "limited"
     themes: [
@@ -27,5 +28,10 @@
       "minimap-autohideDecorationsZIndex": 0
       pigments: true
       pigmentsDecorationsZIndex: 0
+=======
+    telemetryConsent: "limited"
+  "exception-reporting":
+    userId: "b8faa6dc-c14f-4e63-93d3-12f063819e10"
+>>>>>>> 9f3724960e0927bd3d08a11be03a6caf299238f3
   welcome:
     showOnStartup: false
