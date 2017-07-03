@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "/tmp/d-117219-4577-wl3b6v/package.tgz",
+        "raw": "/tmp/d-11763-15543-131a5zu/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/tmp/d-117219-4577-wl3b6v/package.tgz",
-        "spec": "/tmp/d-117219-4577-wl3b6v/package.tgz",
+        "rawSpec": "/tmp/d-11763-15543-131a5zu/package.tgz",
+        "spec": "/tmp/d-11763-15543-131a5zu/package.tgz",
         "type": "local"
       },
-      "/tmp/apm-install-dir-117219-4577-13x4tc7"
+      "/tmp/apm-install-dir-11763-15543-vafvth"
     ]
   ],
-  "_from": "../d-117219-4577-wl3b6v/package.tgz",
+  "_from": "../d-11763-15543-131a5zu/package.tgz",
   "_id": "minimap-pigments@0.2.2",
   "_inCache": true,
   "_installable": true,
   "_location": "/minimap-pigments",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/tmp/d-117219-4577-wl3b6v/package.tgz",
+    "raw": "/tmp/d-11763-15543-131a5zu/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/tmp/d-117219-4577-wl3b6v/package.tgz",
-    "spec": "/tmp/d-117219-4577-wl3b6v/package.tgz",
+    "rawSpec": "/tmp/d-11763-15543-131a5zu/package.tgz",
+    "spec": "/tmp/d-11763-15543-131a5zu/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117219-4577-wl3b6v/package.tgz",
+  "_resolved": "file:../d-11763-15543-131a5zu/package.tgz",
   "_shasum": "fa6abb5dfc73f1e56c1d700e16720eb4655252b3",
   "_shrinkwrap": null,
-  "_spec": "/tmp/d-117219-4577-wl3b6v/package.tgz",
-  "_where": "/tmp/apm-install-dir-117219-4577-13x4tc7",
+  "_spec": "/tmp/d-11763-15543-131a5zu/package.tgz",
+  "_where": "/tmp/apm-install-dir-11763-15543-vafvth",
   "bugs": {
     "url": "https://github.com/abe33/minimap-pigments/issues"
   },

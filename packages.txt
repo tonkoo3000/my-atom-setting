@@ -28,3 +28,4 @@ split-diff
 language-markdown
 markdown-writer
 markdown-toc
+merge-conflicts

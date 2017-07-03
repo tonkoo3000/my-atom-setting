@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "/tmp/d-117219-3926-1o8wyj8/package.tgz",
+        "raw": "/tmp/d-11763-15543-ubh4ty/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/tmp/d-117219-3926-1o8wyj8/package.tgz",
-        "spec": "/tmp/d-117219-3926-1o8wyj8/package.tgz",
+        "rawSpec": "/tmp/d-11763-15543-ubh4ty/package.tgz",
+        "spec": "/tmp/d-11763-15543-ubh4ty/package.tgz",
         "type": "local"
       },
-      "/tmp/apm-install-dir-117219-3926-1mxl26p"
+      "/tmp/apm-install-dir-11763-15543-1nzijyp"
     ]
   ],
-  "_from": "../d-117219-3926-1o8wyj8/package.tgz",
+  "_from": "../d-11763-15543-ubh4ty/package.tgz",
   "_id": "emmet@2.4.3",
   "_inCache": true,
   "_installable": true,
   "_location": "/emmet",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/tmp/d-117219-3926-1o8wyj8/package.tgz",
+    "raw": "/tmp/d-11763-15543-ubh4ty/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/tmp/d-117219-3926-1o8wyj8/package.tgz",
-    "spec": "/tmp/d-117219-3926-1o8wyj8/package.tgz",
+    "rawSpec": "/tmp/d-11763-15543-ubh4ty/package.tgz",
+    "spec": "/tmp/d-11763-15543-ubh4ty/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117219-3926-1o8wyj8/package.tgz",
+  "_resolved": "file:../d-11763-15543-ubh4ty/package.tgz",
   "_shasum": "43fafacc11b3b6ae5716868fe539dd398b53430e",
   "_shrinkwrap": null,
-  "_spec": "/tmp/d-117219-3926-1o8wyj8/package.tgz",
-  "_where": "/tmp/apm-install-dir-117219-3926-1mxl26p",
+  "_spec": "/tmp/d-11763-15543-ubh4ty/package.tgz",
+  "_where": "/tmp/apm-install-dir-11763-15543-1nzijyp",
   "bugs": {
     "url": "https://github.com/emmetio/emmet-atom/issues"
   },

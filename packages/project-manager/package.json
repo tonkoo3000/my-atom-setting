@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "/tmp/d-117225-9990-1a4oh9x/package.tgz",
+        "raw": "/tmp/d-11763-15543-1vozvy4/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/tmp/d-117225-9990-1a4oh9x/package.tgz",
-        "spec": "/tmp/d-117225-9990-1a4oh9x/package.tgz",
+        "rawSpec": "/tmp/d-11763-15543-1vozvy4/package.tgz",
+        "spec": "/tmp/d-11763-15543-1vozvy4/package.tgz",
         "type": "local"
       },
-      "/tmp/apm-install-dir-117225-9990-jh9zk2"
+      "/tmp/apm-install-dir-11763-15543-1tidzfk"
     ]
   ],
-  "_from": "../d-117225-9990-1a4oh9x/package.tgz",
-  "_id": "project-manager@3.3.4",
+  "_from": "../d-11763-15543-1vozvy4/package.tgz",
+  "_id": "project-manager@3.3.5",
   "_inCache": true,
   "_installable": true,
   "_location": "/project-manager",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/tmp/d-117225-9990-1a4oh9x/package.tgz",
+    "raw": "/tmp/d-11763-15543-1vozvy4/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/tmp/d-117225-9990-1a4oh9x/package.tgz",
-    "spec": "/tmp/d-117225-9990-1a4oh9x/package.tgz",
+    "rawSpec": "/tmp/d-11763-15543-1vozvy4/package.tgz",
+    "spec": "/tmp/d-11763-15543-1vozvy4/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117225-9990-1a4oh9x/package.tgz",
-  "_shasum": "8024d0660437b14ca1717e497df63ce9d0684423",
+  "_resolved": "file:../d-11763-15543-1vozvy4/package.tgz",
+  "_shasum": "145fbdfcb6c24d31e073e974c839bae9f2b44ff9",
   "_shrinkwrap": null,
-  "_spec": "/tmp/d-117225-9990-1a4oh9x/package.tgz",
-  "_where": "/tmp/apm-install-dir-117225-9990-jh9zk2",
+  "_spec": "/tmp/d-11763-15543-1vozvy4/package.tgz",
+  "_where": "/tmp/apm-install-dir-11763-15543-1tidzfk",
   "bugs": {
     "url": "https://github.com/danielbrodin/atom-project-manager/issues"
   },
@@ -86,7 +86,7 @@
     }
   },
   "dependencies": {
-    "atom-project-util": "^4.0.0",
+    "atom-project-util": "^4.1.0",
     "atom-space-pen-views": "^2.0.3",
     "change-case": "^3.0.0",
     "etch": "^0.8.0",
@@ -136,5 +136,5 @@
   "scripts": {
     "test": "apm test && ./node_modules/.bin/eslint lib/**"
   },
-  "version": "3.3.4"
+  "version": "3.3.5"
 }
